@@ -1,16 +1,24 @@
+# 문제
+
+Hello World!를 출력하는 프로그램을 작성해 주세요.
+
+# 입력
+
+입력은 주어지지 않습니다.
+
+# 출력
+
+출력 첫째 줄에 "Hello World!"를 출력하세요.
+
+
 # Problem
 
-You are given two integers a and b.
-
-Print a + b.
+Print Hello World!.
 
 # Input
 
-The first line of input contains two integers a and b separated by a space.
-
-* 1 ≤ a ≤ 9
-* 1 ≤ b ≤ 9
+There is no input.
 
 # Output
 
-Print a + b on the first line of output.
+Print "Hello World!" on the first line of output.
